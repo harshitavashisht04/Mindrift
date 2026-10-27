@@ -1,0 +1,6 @@
+{
+  "name": "Mindrift - Learn It. Play It. Prove It.",
+  "description": "An interactive educational platform for mastering computer science concepts with hands-on visualizers, verifiable challenges, and personalized mentoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
